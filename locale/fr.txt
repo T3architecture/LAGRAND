@@ -1,0 +1,29 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = LAGRAND
+
+## Skin
+
+### Label
+label4056.text = Villa à Lagrand
+
+## Media
+
+### Title
+panorama_3805F3E4_348B_610B_41BD_CB167156837A.label = Détente
+panorama_3F1690A2_348B_3F09_41BE_40E953792923.label = Cuisine
+panorama_3F170884_348C_EF09_41B2_6672CB366F76.label = Salon
+panorama_3F17337F_348D_21F7_41B2_0BAA4650348F.label = Chambre 2
+panorama_3F177635_348D_630B_41C5_A21FB176E154.label = Chambre 1
+panorama_3F17F627_348D_2316_41C0_485979802A7C.label = Bureau
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://linktr.ee/t3_architecture
+LinkBehaviour_A99CB470_BF24_034B_41D8_32775ADC450A.source = https://linktr.ee/t3_architecture
